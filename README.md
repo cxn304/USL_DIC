@@ -1,4 +1,4 @@
-# Unsupervised neural networks with U-Net
+# Unsupervised neural networks DIC
 
 This code implements an unsupervised learning approach using the U-Net architecture for image segmentation. The goal is to train a model to predict deformations in images without any labeled training data. The paper has submitted to optics and lasers in engineering.
 
