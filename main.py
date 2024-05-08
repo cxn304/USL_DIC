@@ -178,8 +178,7 @@ if __name__ == '__main__':
           torch.cuda.set_device(args.gpu_id)
           model.cuda(args.gpu_id)
           criterion = criterion.cuda(args.gpu_id)
-    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr,
-                    weight_decay=args.weight_decay)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr)
     if args.RESUME:
         path_checkpoint = args.checkpoint_path
         if torch.cuda.is_available():
