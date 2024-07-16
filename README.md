@@ -56,4 +56,12 @@ To use this script, ensure that the required Python packages are installed, and 
 - The script includes error handling for CUDA availability, which allows it to run on both CPU and GPU environments.
 
 
-
+@article{CHENG2025111414,
+title = {Using unsupervised learning based convolutional neural networks to solve Digital Image Correlation},
+journal = {Optics & Laser Technology},
+volume = {180},
+pages = {111414},
+year = {2025},
+issn = {0030-3992},
+doi = {https://doi.org/10.1016/j.optlastec.2024.111414}
+}
