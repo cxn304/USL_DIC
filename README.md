@@ -54,6 +54,7 @@ To use this script, ensure that the required Python packages are installed, and 
 - The visualization part of the script (`imagesc` function) is commented out and should be enabled if visualization is required.
 - Ensure that the paths for data and checkpoints are correctly set up before running the script.
 - The script includes error handling for CUDA availability, which allows it to run on both CPU and GPU environments.
+- The code and project, as well as the initial draft of the article, were completed in August 2022.
 
 
 @article{CHENG2025111414,
