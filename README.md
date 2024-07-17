@@ -55,6 +55,7 @@ To use this script, ensure that the required Python packages are installed, and 
 - Ensure that the paths for data and checkpoints are correctly set up before running the script.
 - The script includes error handling for CUDA availability, which allows it to run on both CPU and GPU environments.
 - The code and project, as well as the initial draft of the article, were completed in August 2022.
+- https://gitee.com/wss304/unsupervised_learning_dic
 
 
 @article{CHENG2025111414,
